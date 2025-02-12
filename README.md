@@ -1,13 +1,5 @@
-# Проект: Путешествие по России
+# Russian Travel
 
-### Обзор
-* Описание
-* GitHub Pages
+It's a training project on adaptive website layout. Made with media queries, flex, and grid.
 
-**Описание**
-
-Путешествие по России - учебный проект по адаптивной верстке сайтов. Для создания использовались медиазапросы, flex, grid.
-
-**GitHub Pages**
-
-* [Ссылка на GitHub Pages](https://skavr666.github.io/russian-travel/)
+[Link to GitHub Pages](https://yegorsid.github.io/russian-travel/)
